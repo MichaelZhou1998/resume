@@ -1,5 +1,10 @@
 ## About me
-I am a diligent, eager and self-motivated first-year student currently aiming to pursue a dual degree in Software Engineering and Honors Business Administration from the University of Western Ontario.
+I am a diligent, eager and self-motivated first-year student currently aiming to pursue a dual degree in Software Engineering from the University of Western Ontario.
+
+Here's a prototype video I made for my engineering design project.
+
+<iframe frameborder="0" width="560" height="315" src="https://biteable.com/watch/embed/presentation-1-1337480" allowfullscreen="true"></iframe><p><a href="https://biteable.com/watch/presentation-1-1337480">Presentation 1</a> on <a href="https://biteable.com">Biteable</a>.</p>
+
 
 
 ## Experience
