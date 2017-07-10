@@ -1,5 +1,5 @@
 ## About me
-I am a diligent, eager and self-motivated first-year student currently aiming to pursue a dual degree in Software Engineering from the University of Western Ontario.
+I am a diligent, eager and self-motivated first-year student studying Software Engineering at the University of Western Ontario.
 
 Here's a prototype video I made for my engineering design project.
 
